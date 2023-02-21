@@ -39,7 +39,9 @@
   width: 80px;
   height: 40px !important;
   margin-left: 80% !important;
+  margin-bottom: 30px !important;
 }
+
 .tweet_sendDisableBtn {
   background-color: gray !important;
   border: none !important;
@@ -51,4 +53,5 @@
   height: 40px !important;
   margin-left: 80% !important;
   cursor: none !important;
+  margin-bottom: 30px !important;
 }
